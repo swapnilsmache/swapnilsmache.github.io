@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-10
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Conference paper, [An Ensemble of Proximal Networks for Sparse Coding](https://ieeexplore.ieee.org/abstract/document/9897607), led by [Kartheek Kumar Reddy Nareddy](https://scholar.google.com/citations?user=3RvB_F8AAAAJ&hl=en), published in the proceedings of the IEEE International Conference on Image Processing (ICIP) 2022.
