@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Student <a href='https://www.utwente.nl/en/'>University of Twente</a>
+subtitle: PhD Student <a href='https://www.utwente.nl/en/'>University of Twente</a>
 
 profile:
   align: right
