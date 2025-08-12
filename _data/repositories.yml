@@ -5,6 +5,5 @@ repo_description_lines_max: 2
 
 github_repos:
   - IvoVellekoop/wavesim_py
-  - swapnilsmache/wavesim
-  - swapnilsmache/wavesim_compare
+  - IvoVellekoop/wavesim
   - swapnilsmache/nuspan_arxiv
